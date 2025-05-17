@@ -1,0 +1,18 @@
+[
+    {"img": "/R.webp",
+ "location":"London",
+  "distance":"1 hour drive"
+    },
+    { "img": "/R.webp",
+       "location":"London",
+    "distance":"1 hour drive"        
+    },
+    { "img": "/R.webp",
+       "location":"London",
+    "distance":"1 hour drive"        
+    },
+    { "img": "/R.webp",
+       "location":"London",
+    "distance":"1 hour drive"        
+    }
+]
